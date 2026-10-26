@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Frontend
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+.env.*
+
+# Local command instrumentation
+.DS_Store
+backend/data/
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+
+# Personal project notes
+PROJECT_WALKTHROUGH.md
