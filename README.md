@@ -1,5 +1,7 @@
-# IKEAlternative
+<img width="936" height="886" alt="image" src="https://github.com/user-attachments/assets/0b7cf702-5d4f-4ba6-8332-1a1aa5e972c7" />
 
+
+## IKEAlternative
 IKEA smart light control from your web browser.
 
 I found that the IKEA Home app was particularly hard to use for gradual light changes (specifically with the gradual hue/temperature change features). So, I decided to make IKEAlternative, a simple way to control your smart lights that allows you to be really specific about your scenes, making it easier to stop your lights from randomly turning green in the middle of the night.
